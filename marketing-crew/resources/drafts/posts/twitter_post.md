@@ -1,0 +1,1 @@
+{ "content_type": "Social Media Post", "topic": "Excel Automation", "target_audience": "SMEs", "tags": ["AI", "Excel", "Automation", "Productivity", "SMEs"], "content": "Tired of tedious Excel tasks? Our AI-powered tool automates the boring stuff so you can focus on what matters. Try it now! [Link to website] #ExcelAutomation #AI #SME #Productivity" }
